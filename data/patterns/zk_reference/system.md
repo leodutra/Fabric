@@ -15,7 +15,7 @@ tags:
 source: ""
 author: ""
 type_of_source: ""
-created: {{date}}
+created: YYYY-MM-DD
 ---
 
 # <title>

@@ -1006,11 +1006,11 @@
     },
     {
       "patternName": "zk_permanent",
-      "pattern_extract": "You are helping me create a Zettelkasten PERMANENT note using Obsidian Properties. Generate a title and a kebab-case ID based on that title. OUTPUT FORMAT (strict): --- id: <kebab-case version of the title> aliases: [] type: permanent tags: - tag1 - tag2 - tag3 created: {{date}} --- # <title> ## Idea A single, clear, self-contained statement. ## Explanation Explain the idea clearly in your own words. ## Implications Why this matters and where it applies. ## Connections - [[Related Concept]]"
+      "pattern_extract": "You are helping me create a Zettelkasten PERMANENT note using Obsidian Properties. Generate a title and a kebab-case ID based on that title. OUTPUT FORMAT (strict): --- id: <kebab-case version of the title> aliases: [] type: permanent tags: - tag1 - tag2 - tag3 created: YYYY-MM-DD --- # <title> ## Idea A single, clear, self-contained statement. ## Explanation Explain the idea clearly in your own words. ## Implications Why this matters and where it applies. ## Connections - [[Related Concept]]"
     },
     {
       "patternName": "zk_reference",
-      "pattern_extract": "You are helping me create a Zettelkasten REFERENCE note using Obsidian Properties. Generate a title and a kebab-case ID based on that title. OUTPUT FORMAT (strict): --- id: <kebab-case version of the title> aliases: [] type: reference tags: - tag1 - tag2 - tag3 source: \"\" author: \"\" type_of_source: \"\" created: {{date}} --- # <title> ## Context Why this source matters. ## Key Ideas - Each bullet = one idea from the source - Rewrite clearly in your own words ## Notable Details"
+      "pattern_extract": "You are helping me create a Zettelkasten REFERENCE note using Obsidian Properties. Generate a title and a kebab-case ID based on that title. OUTPUT FORMAT (strict): --- id: <kebab-case version of the title> aliases: [] type: reference tags: - tag1 - tag2 - tag3 source: \"\" author: \"\" type_of_source: \"\" created: YYYY-MM-DD --- # <title> ## Context Why this source matters. ## Key Ideas - Each bullet = one idea from the source - Rewrite clearly in your own words ## Notable Details"
     }
   ]
 }
