@@ -738,6 +738,14 @@ Generate LaTeX documents with proper formatting.
 
 Create concise essays presenting a single key idea.
 
+### zk_permanent
+
+Create Zettelkasten permanent notes with structured Obsidian properties.
+
+### zk_reference
+
+Create Zettelkasten reference notes with source metadata and tags.
+
 ## DEVELOPMENT PATTERNS
 
 ### agility_story

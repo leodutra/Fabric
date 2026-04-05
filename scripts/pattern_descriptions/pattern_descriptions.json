@@ -2083,6 +2083,22 @@
         "WRITING",
         "CONVERSION"
       ]
+    },
+    {
+      "patternName": "zk_permanent",
+      "description": "Create Zettelkasten permanent notes with structured Obsidian properties.",
+      "tags": [
+        "WRITING",
+        "RESEARCH"
+      ]
+    },
+    {
+      "patternName": "zk_reference",
+      "description": "Create Zettelkasten reference notes with source metadata and tags.",
+      "tags": [
+        "WRITING",
+        "RESEARCH"
+      ]
     }
   ]
 }

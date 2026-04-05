@@ -253,3 +253,5 @@
 249. **write_pull-request**: Drafts detailed pull request descriptions, explaining changes, providing reasoning, and identifying potential bugs from the git diff command output.
 250. **write_semgrep_rule**: Creates accurate and working Semgrep rules based on input, following syntax guidelines and specific language considerations.
 251. **youtube_summary**: Create concise, timestamped Youtube video summaries that highlight key points.
+252. **zk_permanent**: Creates a Zettelkasten permanent note with Obsidian properties, including a title, kebab-case ID, tags, and structure for ideas.
+253. **zk_reference**: Creates a Zettelkasten reference note with Obsidian properties, including source, author, type, and structured metadata.
